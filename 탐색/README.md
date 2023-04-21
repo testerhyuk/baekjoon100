@@ -58,7 +58,7 @@
 
 | 다시 풀어볼 문제 | Tag                          | 태그                | 문제번호    | 문제이름    | 난이도    | 문제풀이    |
 | :------:  | :--------------------------: | :-----------------: | :------:  | :------:  |  :------:  | :------:  |
-| :heavy_check_mark: | DFS | 깊이 우선 탐색 | <a href="https://www.acmicpc.net/problem/11724">11724</a> | <a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./11724-연결%20요소의%20개수.py) |
+| :heavy_check_mark: | DFS | 깊이 우선 탐색 | <a href="https://www.acmicpc.net/problem/11724">11724</a> | <a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./11724-연결%20요소의%20개수%20구하기.py) |
 | :heavy_check_mark: | DFS | 깊이 우선 탐색 | <a href="https://www.acmicpc.net/problem/2023">2023</a> | <a href="https://www.acmicpc.net/problem/2023">신기한 소수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./2023-신기한%20소수.py) |
 | :heavy_check_mark: | DFS | 깊이 우선 탐색 | <a href="https://www.acmicpc.net/problem/13023">13023</a> | <a href="https://www.acmicpc.net/problem/13023">ABCDE</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./13023-ABCDE.py) |
 |  | BFS | 너비 우선 탐색 | <a href="https://www.acmicpc.net/problem/1260">1260</a> | <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](./1260-DFS와%20BFS.py) |
