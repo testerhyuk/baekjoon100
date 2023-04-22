@@ -5,7 +5,7 @@
 | 다시 풀어볼 문제 | Tag                          | 태그                | 문제번호    | 문제이름    | 난이도    | 문제풀이    |
 | :------:  | :--------------------------: | :-----------------: | :------:  | :------:  |  :------:  | :------:  |
 | :heavy_check_mark: | Number Theory | 정수론 | <a href="https://www.acmicpc.net/problem/1929">1929</a> | <a href="https://www.acmicpc.net/problem/1929">소수 구하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./1929-소수%20구하기.py) |
-| :heavy_check_mark: | Number Theory | 정수론 | <a href="https://www.acmicpc.net/problem/1747">1747</a> | <a href="https://www.acmicpc.net/problem/1747">소수&팰린드롬</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./1929-소수%26팰린드롬.py) |
+| :heavy_check_mark: | Number Theory | 정수론 | <a href="https://www.acmicpc.net/problem/1747">1747</a> | <a href="https://www.acmicpc.net/problem/1747">소수&팰린드롬</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./1747-소수&팰린드롬.py) |
 
 <br><br>
 
