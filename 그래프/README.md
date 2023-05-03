@@ -9,6 +9,11 @@
 | :heavy_check_mark: | Graph | 그래프 | <a href="https://www.acmicpc.net/problem/1707">1707</a> | <a href="https://www.acmicpc.net/problem/1707">이분 그래프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./그래프의%20표현/1707-이분%20그래프.py) |
 | :heavy_check_mark: | Graph | 그래프 | <a href="https://www.acmicpc.net/problem/2251">2251</a> | <a href="https://www.acmicpc.net/problem/2251">물통</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./그래프의%20표현/2251-물통.py) |
 | :heavy_check_mark: | Graph | 유니온 파인드 | <a href="https://www.acmicpc.net/problem/1717">1717</a> | <a href="https://www.acmicpc.net/problem/1717">집합의 표현</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./유니온%20파인드/1717-집합의%20표현.py) |
+| :heavy_check_mark: | Graph | 유니온 파인드 | <a href="https://www.acmicpc.net/problem/1976">1976</a> | <a href="https://www.acmicpc.net/problem/1976">여행 가자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./유니온%20파인드/1976-여행%20가자.py) |
+| :heavy_check_mark: | Graph | 유니온 파인드 | <a href="https://www.acmicpc.net/problem/1043">1043</a> | <a href="https://www.acmicpc.net/problem/1043">거짓말</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./유니온%20파인드/1043-거짓말.py) |
+| :heavy_check_mark: | Graph | 위상 정렬 | <a href="https://www.acmicpc.net/problem/2252">2252</a> | <a href="https://www.acmicpc.net/problem/2252">줄 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./위상%20정렬/2252-줄%20세우기.py) |
+| :heavy_check_mark: | Graph | 다익스트라 | <a href="https://www.acmicpc.net/problem/1753">1753</a> | <a href="https://www.acmicpc.net/problem/1753">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./다익스트라/1753-최단경로.py) |
+| :heavy_check_mark: | Graph | 다익스트라 | <a href="https://www.acmicpc.net/problem/1916">1916</a> | <a href="https://www.acmicpc.net/problem/1916">최소비용 구하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./다익스트라/1916-최소비용%20구하기.py) |
 
 ## 핵심 내용
 
